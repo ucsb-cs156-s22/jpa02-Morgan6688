@@ -1,7 +1,7 @@
 # jpa02-Morgan6688
 
 
-Repo: https://ucsb-cs156-s22/jpa02-Morgan6688
+Repo: https://github.com/ucsb-cs156-s22/jpa02-Morgan6688
 
 On Heroku: https://jpa02-shu-hsien.herokuapp.com
 
